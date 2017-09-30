@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFiles</key>
+	<array/>
+	<key>CFBundleIdentifier</key>
+	<string>com.silverstar.clrkeyboard</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>${PRODUCT_NAME}</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Heinrich Text.ttf</string>
+		<string>domc.ttf</string>
+		<string>FuturaRoundBold.ttf</string>
+		<string>couri.ttf</string>
+		<string>Edisson.ttf</string>
+		<string>GildiaExp.ttf</string>
+		<string>Pudelina.ttf</string>
+		<string>animeace2_reg.ttf</string>
+		<string>AvenirLTStd Black.otf</string>
+		<string>BDPOldNeo.ttf</string>
+		<string>BDPOldNeo.ttf</string>
+		<string>BebasNeue.otf</string>
+		<string>BDPOldNeo.ttf</string>
+		<string>BorisBlackBloxx.ttf</string>
+		<string>BorisBlackBloxxDirty.ttf</string>
+		<string>BradBunR.ttf</string>
+		<string>CaviarDreams_Bold.ttf</string>
+		<string>charbb_reg.ttf</string>
+		<string>ChineseTakeaway.ttf</string>
+		<string>chumbly.ttf</string>
+		<string>coolvetica rg.ttf</string>
+		<string>destructobeambb_reg.ttf</string>
+		<string>fairlyoddfont.ttf</string>
+		<string>FEASFBRG.TTF</string>
+		<string>Harabara.ttf</string>
+		<string>Jolly Bold.ttf</string>
+		<string>JudasPriest.ttf</string>
+		<string>mailrays.ttf</string>
+		<string>MIRISCH.TTF</string>
+		<string>pavese_20px.ttf</string>
+		<string>Pencil Font.ttf</string>
+		<string>pirulen.ttf</string>
+		<string>PixieB.ttf</string>
+		<string>Qlinickle.ttf</string>
+		<string>quadrant.ttf</string>
+		<string>repetitarounded.ttf</string>
+		<string>RioGrande.ttf</string>
+		<string>shanghai.ttf</string>
+		<string>Splendid Plan 9 Italic.ttf</string>
+		<string>Top Secret.ttf</string>
+		<string>Wonton.ttf</string>
+		<string>X360.ttf</string>
+		<string>die nasty.ttf</string>
+		<string>PADTHAI_.TTF</string>
+		<string>NOTMK.TTF</string>
+	</array>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>
